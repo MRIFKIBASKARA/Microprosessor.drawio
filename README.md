@@ -18,7 +18,8 @@ Diagram dibuat menggunakan **draw.io** untuk memvisualisasikan hubungan antar CP
 - `Multiprocessor Architecture.drawio` — File diagram utama dalam format `.drawio` (XML).
 
 ## 🖼️ Preview Diagram
-[Uploading ChatGPT Image Apr 26, 2025, 02_20_03 PM.png…]()
+![ChatGPT Image Apr 26, 2025, 02_20_03 PM](https://github.com/user-attachments/assets/d58bebb9-3183-405b-a6a3-b4080eeddce2)
+
 
 
 ## 📜 Lisensi
